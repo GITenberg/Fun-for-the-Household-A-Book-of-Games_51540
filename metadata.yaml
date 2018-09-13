@@ -1,11 +1,16 @@
 _repo: Fun-for-the-Household-A-Book-of-Games_51540
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51540-h/images/cover.jpg
 creator:
   author:
     agent_name: Gray, Emma J.
     gutenberg_agent_id: '46457'
     url: http://www.gutenberg.org/2009/agents/46457
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51540#Fun-for-the-Household-A-Book-of-Games
 gutenberg_issued: '2016-03-24'
 gutenberg_type: Text
 identifiers:
